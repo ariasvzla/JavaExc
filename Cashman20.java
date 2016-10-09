@@ -1,6 +1,6 @@
 //import class
 import java.util.Scanner;
-import java.util.*;
+
 
 
 //Create class
