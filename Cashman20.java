@@ -10,7 +10,7 @@ public class Cashman20
 	public static void main (String[]args)
 
 	{
-		final String EURO = "\u00ae";
+
         //declare variables
 		double scost=0;
 		double amountPaid;
@@ -57,7 +57,7 @@ while (amountPaid<scost)
 
 			System.out.println("                                    ");
 			System.out.println("                                    ");
-	    System.out.println("=============================Thank you for your payment1==========================");
+	    System.out.println("=============================Thank you for your payment13==========================");
 
          //Convert double to integer
           scost= Math.round(scost);
