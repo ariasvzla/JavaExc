@@ -57,6 +57,7 @@ while (amountPaid<scost)
 
 			System.out.println("                                    ");
 			System.out.println("                                    ");
+	    System.out.println("=============================Thank you for your payment1==========================");
 
          //Convert double to integer
           scost= Math.round(scost);
